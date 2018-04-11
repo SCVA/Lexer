@@ -1,4 +1,4 @@
-# CompiladoresIntro
+# Lexer
 
 C3 Integrantes: 
 <ol>
