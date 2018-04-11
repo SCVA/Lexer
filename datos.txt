@@ -1,0 +1,9 @@
+Algoritmo sin_titulo
+	x<-5
+	Si 5>6 Entonces
+		x<-x+1
+	Fin Si
+	Para y<-0 Hasta 5 Con Paso 1 Hacer
+		x<-x+2
+	Fin Para
+FinAlgoritmo
